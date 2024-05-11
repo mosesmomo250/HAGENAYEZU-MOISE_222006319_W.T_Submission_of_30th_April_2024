@@ -124,10 +124,10 @@
     <header>
         <h1>Voting System</h1>
         <nav>
-            <a href="profile party.html" class="button">Party Profile</a>
-            <a href="profile candidate.html" class="button">Candidate Profile</a>
-            <a href="result in admin dashboard.html" class="button">Election Result</a>
-            <a href="index.html" class="button">Log Out</a>
+            <a href="profile party.php" class="button">Party Profile</a>
+            <a href="profile candidate.php" class="button">Candidate Profile</a>
+            <a href="result in admin dashboard.php" class="button">Election Result</a>
+            <a href="index.php" class="button">Log Out</a>
         </nav>
     </header>
 
