@@ -99,13 +99,13 @@
     <header>
         <h1><b>Voting System</b></h1>
         <nav>
-            <a href="admin ba.html" id="adminBallotsBtn">Admin Ballots</a>
-            <a href="admin management.html" id="adminManagementBtn">Admin Management</a>
-            <a href="approval candidates.html" id="approveCandidateBtn">Approve Candidate</a>
-            <a href="approval party.html" id="approvePartyBtn">Approve Party</a>
-            <a href="creating the election.html" id="createElectionBtn">Create Election</a>
-            <a href="result in admin dashboard.html" id="viewResultsBtn">View Election Results</a>
-            <a href="index.html" id="logoutBtn">Log Out</a>
+            <a href="admin ba.php" id="adminBallotsBtn">Admin Ballots</a>
+            <a href="admin management.php" id="adminManagementBtn">Admin Management</a>
+            <a href="approval candidates.php" id="approveCandidateBtn">Approve Candidate</a>
+            <a href="approval party.php" id="approvePartyBtn">Approve Party</a>
+            <a href="creating the election.php" id="createElectionBtn">Create Election</a>
+            <a href="result in admin dashboard.php" id="viewResultsBtn">View Election Results</a>
+            <a href="index.php" id="logoutBtn">Log Out</a>
         </nav>
     </header>
 
