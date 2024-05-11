@@ -98,20 +98,20 @@
 
 <div class="top-bar">
     <input type="text" class="search-bar" placeholder="Search...">
-    <a href="index.html" class="logout-button">Log Out</a>
+    <a href="index.php" class="logout-button">Log Out</a>
 </div>
 
 <div class="dashboard">
     <div class="card profile">
-        <a href="profile candidate.html">Profile Candidate</a>
+        <a href="profile candidate.php">Profile Candidate</a>
         <!-- Candidate profile details here -->
     </div>
     <div class="card profile">
-        <a href="profile party.html">Profile Party</a>
+        <a href="profile party.php">Profile Party</a>
         <!-- Party profile details here -->
     </div>
     <div class="card election-result">
-        <a href="result in admin dashboard.html">Election Result</a>
+        <a href="result in admin dashboard.php">Election Result</a>
         <!-- Display election results here -->
     </div>
 </div>
