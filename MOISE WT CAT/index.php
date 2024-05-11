@@ -132,8 +132,8 @@
  </header>
  <main>
   <div class="buttons">
-    <a href="Register.html">Get Started</a>
-    <a href="guide.html">Guide</a>
+    <a href="Register.php">Get Started</a>
+    <a href="guide.php">Guide</a>
   </div>
   <div class="image-container">
     <img src="11.jpg" alt="Voting Image">
